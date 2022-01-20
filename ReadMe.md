@@ -1,4 +1,4 @@
-# Git & GitHub
+# VIT AP - Git & GitHub Workshop
 
 Hey **VITians**! This is a Webinar where you can learn a lot about Git & GitHub, Open Source in General and try to deploy a project online! 😁
 
